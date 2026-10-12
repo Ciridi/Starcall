@@ -1,8 +1,8 @@
-# Brightward
+# StarCall
 
-Official website for Brightward Consulting.
+Official website for StarCall Consulting.
 
-Brightward is a technical consulting firm focused on helping small and midsize organizations identify operational problems and turn them into practical digital solutions.
+StarCall is a technical consulting firm focused on helping small and midsize organizations identify operational problems and turn them into practical digital solutions.
 
 ## Site Structure
 
